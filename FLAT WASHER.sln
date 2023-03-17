@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FLAT WASHER", "FLAT WASHER\FLAT WASHER.vcxproj", "{47790F96-5235-4787-95F2-903617EA64CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47790F96-5235-4787-95F2-903617EA64CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47790F96-5235-4787-95F2-903617EA64CD}.Debug|Win32.Build.0 = Debug|Win32
+		{47790F96-5235-4787-95F2-903617EA64CD}.Release|Win32.ActiveCfg = Release|Win32
+		{47790F96-5235-4787-95F2-903617EA64CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
